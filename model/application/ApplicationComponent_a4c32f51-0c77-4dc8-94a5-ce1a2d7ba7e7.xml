@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configura"
+    id="a4c32f51-0c77-4dc8-94a5-ce1a2d7ba7e7"
+    documentation="Drawing Tool">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>

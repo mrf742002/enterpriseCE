@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISAK"
+    id="72892035-42fb-44ee-aabd-44a807352df3"
+    documentation="Project &amp; Claims Portal">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>

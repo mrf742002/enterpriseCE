@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comactivity"
+    id="041219fc-c921-4cd8-b06d-4394c961db4a"
+    documentation="Proejct/Contract Portal">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>
